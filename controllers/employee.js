@@ -1,3 +1,6 @@
+import {query} from "../utils/connectToDB.js"
+
+
 export async function getAllEmployee(req,res,next){
 
 }
